@@ -1,0 +1,8 @@
+C:\Users\batuhan.DESKTOP-70J1IH9\Desktop\Projetakibi\Projetakibi\bin\Debug\Projetakibi.exe
+C:\Users\batuhan.DESKTOP-70J1IH9\Desktop\Projetakibi\Projetakibi\bin\Debug\Projetakibi.pdb
+C:\Users\batuhan.DESKTOP-70J1IH9\Desktop\Projetakibi\Projetakibi\obj\x86\Debug\Projetakibi.Properties.Resources.resources
+C:\Users\batuhan.DESKTOP-70J1IH9\Desktop\Projetakibi\Projetakibi\obj\x86\Debug\Projetakibi.csproj.GenerateResource.Cache
+C:\Users\batuhan.DESKTOP-70J1IH9\Desktop\Projetakibi\Projetakibi\obj\x86\Debug\Projetakibi.exe
+C:\Users\batuhan.DESKTOP-70J1IH9\Desktop\Projetakibi\Projetakibi\obj\x86\Debug\Projetakibi.pdb
+C:\Users\batuhan.DESKTOP-70J1IH9\Desktop\Projetakibi\Projetakibi\obj\x86\Debug\Projetakibi.Form1.resources
+C:\Users\batuhan.DESKTOP-70J1IH9\Desktop\Projetakibi\Projetakibi\obj\x86\Debug\Projetakibi.frmSiniflar.resources
